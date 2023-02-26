@@ -1,7 +1,10 @@
 ## Musichain:     
 The inspiration for this project likely comes from the need to create a music platform that addresses privacy, safety, and plagiarism concerns. By storing music on a blockchain database, the platform ensures that users' music is safe and secure and cannot be tampered with or stolen. In addition, the platform likely addresses plagiarism concerns by calculating the similarity of uploaded tracks and ensuring that they are not plagiarized. The use of blockchain technology ensures that the platform is decentralized and there is no single point of failure, making it more resistant to hacking and other security threats. The comparison algorithm helps users discover similar tracks and explore new music without compromising their privacy or the security of their data.
 
-<a href="https://ibb.co/yhQywW0"><img src="https://i.ibb.co/ZHM8nWd/Screenshot-2023-02-26-at-12-41-00-PM.png" alt="Screenshot-2023-02-26-at-12-41-00-PM" border="0"></a>
+<div style="display: inline-block;">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/3cLBntk/gallery.jpg" alt="gallery" border="0"></a>.       
+ <a href="https://ibb.co/yhQywW0"><img src="https://i.ibb.co/ZHM8nWd/Screenshot-2023-02-26-at-12-41-00-PM.png" alt="Screenshot-2023-02-26-at-12-41-00-PM" border="0"></a>
+</div>
 
 ## Core Features:   
 
