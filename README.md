@@ -14,13 +14,6 @@ Core features of Musichain:
 
 **User Dashboard**: The website will have a user dashboard where users can manage their uploaded tracks, view their play count, and see their similarity rates.  
 
-
-**What's next for Musichain**
-After two-day hard work, there are still some improvement to be done for Musichain:
-Refining and improving the compression algorithm: Developing a more efficient and effective compression algorithm could help to reduce the size of music files and improve the platform's storage capabilities.
-Integrating artificial intelligence: Incorporating artificial intelligence could help to improve the accuracy of the platform's ability to analyze music, as well as enhance the platform's search capabilities.
-Building partnerships and collaborations: As the platform grows, building partnerships with other companies and organizations in the music industry, as well as with AI and compression algorithm experts, could help to further expand the platform's capabilities.
-
 Built With.  
 Blockchain | 
 CSS |
