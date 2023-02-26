@@ -1,7 +1,9 @@
-**MUSICHAIN**:     
+## Musichain:     
 The inspiration for this project likely comes from the need to create a music platform that addresses privacy, safety, and plagiarism concerns. By storing music on a blockchain database, the platform ensures that users' music is safe and secure and cannot be tampered with or stolen. In addition, the platform likely addresses plagiarism concerns by calculating the similarity of uploaded tracks and ensuring that they are not plagiarized. The use of blockchain technology ensures that the platform is decentralized and there is no single point of failure, making it more resistant to hacking and other security threats. The comparison algorithm helps users discover similar tracks and explore new music without compromising their privacy or the security of their data.
 
-**CORE FEATURES:**   
+<a href="https://ibb.co/yhQywW0"><img src="https://i.ibb.co/ZHM8nWd/Screenshot-2023-02-26-at-12-41-00-PM.png" alt="Screenshot-2023-02-26-at-12-41-00-PM" border="0"></a>
+
+## Core Features:   
 
 **Music Upload**: Users will be able to upload their music tracks to the website. The website will accept various file formats such as MP3, WAV, and FLAC.   
 **Blockchain Database**: The music tracks uploaded by the users will be stored on a blockchain database. This will ensure the security and immutability of the music tracks.   
